@@ -2,7 +2,7 @@
   "name": "woven_hearts_herb_farm",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://steinwachss.github.io/WovenHeartsHerbFarm",
+  "homepage": "https://steinwachss.github.io/WovenHeartsHerbFarm",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
