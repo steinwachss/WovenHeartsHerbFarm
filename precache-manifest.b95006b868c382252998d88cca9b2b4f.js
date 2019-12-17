@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "745a91c3f5cfeaa1ae2a6e0baa079372",
+    "revision": "c15f5977f7505087464c8d285b55851b",
     "url": "/WovenHeartsHerbFarm/index.html"
   },
   {
-    "revision": "a1c2609ba488dae1cc02",
+    "revision": "7dfa7511dc1ba4805a89",
     "url": "/WovenHeartsHerbFarm/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WovenHeartsHerbFarm/static/js/2.4fb7071b.chunk.js.LICENSE"
   },
   {
-    "revision": "a1c2609ba488dae1cc02",
-    "url": "/WovenHeartsHerbFarm/static/js/main.8dcae1f8.chunk.js"
+    "revision": "7dfa7511dc1ba4805a89",
+    "url": "/WovenHeartsHerbFarm/static/js/main.5d34dc23.chunk.js"
   },
   {
     "revision": "83606c8d40b34e4a1d69",
