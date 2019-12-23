@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/WovenHeartsHerbFarm/precache-manifest.5b0bab2b1e48856af127216b5c0b63bb.js"
+  "/WovenHeartsHerbFarm/precache-manifest.43070226ea161392c0da76bb32eb31aa.js"
 );
 
 self.addEventListener('message', (event) => {
