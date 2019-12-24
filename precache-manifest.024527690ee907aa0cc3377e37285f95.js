@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31fc43a1864ad231077a1d4c100611f7",
+    "revision": "af9a8a4b94b61d91b11fd4c8350baadc",
     "url": "/WovenHeartsHerbFarm/index.html"
   },
   {
-    "revision": "47831dba2e8ab8346344",
-    "url": "/WovenHeartsHerbFarm/static/css/main.31e113b7.chunk.css"
+    "revision": "b32fd78de3d87aea60a5",
+    "url": "/WovenHeartsHerbFarm/static/css/main.3b22de3d.chunk.css"
   },
   {
     "revision": "86669ca3175e3884314e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WovenHeartsHerbFarm/static/js/2.ecd22e25.chunk.js.LICENSE"
   },
   {
-    "revision": "47831dba2e8ab8346344",
-    "url": "/WovenHeartsHerbFarm/static/js/main.41b6dc7a.chunk.js"
+    "revision": "b32fd78de3d87aea60a5",
+    "url": "/WovenHeartsHerbFarm/static/js/main.63c3cf79.chunk.js"
   },
   {
     "revision": "83606c8d40b34e4a1d69",
@@ -36,15 +36,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WovenHeartsHerbFarm/static/media/fillslide.c39fc956.jpg"
   },
   {
-    "revision": "6d06ed4c8d1762aa22eee6a26b3d5ba2",
-    "url": "/WovenHeartsHerbFarm/static/media/master2.6d06ed4c.png"
+    "revision": "37ed933d10b80dd837f08daceac18e33",
+    "url": "/WovenHeartsHerbFarm/static/media/kickstarter_banner.37ed933d.png"
   },
   {
     "revision": "07f6bfe7db93b5a0680a2266f3df823f",
     "url": "/WovenHeartsHerbFarm/static/media/sophia.07f6bfe7.jpg"
   },
   {
-    "revision": "156a8b3d25810ada17be92b4e624d501",
-    "url": "/WovenHeartsHerbFarm/static/media/vector logo.156a8b3d.png"
+    "revision": "f176266d85a939a23c64a54a85532d13",
+    "url": "/WovenHeartsHerbFarm/static/media/vector logo all transparent.f176266d.png"
   }
 ]);
