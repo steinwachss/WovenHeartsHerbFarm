@@ -1,6 +1,6 @@
 import React from 'react';
-import logo from './img/vector logo.png'
-import kickStart from './img/master2.png'
+import logo from './img/vector logo all transparent.png'
+import kickStart from './img/kickstarter_banner.png'
 import videoThumb from './img/fillermain.jpg'
 import slideThumb from './img/fillslide.jpg'
 import sophie from './img/sophia.jpg'
@@ -22,7 +22,7 @@ function App() {
       </div>
       <main id="mainContent">
         <div id="about">
-          <h2 className="script">our story</h2>
+          <h2 className="script">Our Story</h2>
           <div id="aboutTxt">
             <p id="first"><strong>Our passion for this project is deeply driven by our love of plants. Woven Hearts Herb Farm is a budding business that aims to produce medicinal plants for the healing hearts in our community.</strong> <em>Our microfarm will supply bulk dried herbs to apothecaries, provide seasonal access to fresh plant material for local healers, and sell medicinal and culinary herb products at farmer's market. Here in Humboldt County we have a highly conscious consumer base with a desire to support local agriculture.  Many community members have experienced the holistic benefits of incorporating healing plants into their lives, whether in the medicine cabinet, the kitchen, or in a simple cup of tea.  Did you know, however, that the cup of chamomile you enjoy could have been grown as far away as Egypt?</em></p>
             <p id="second"><em>We want to produce these plants because <strong>we believe</strong> that...</em></p>
@@ -40,10 +40,10 @@ function App() {
       </main>
       <div id="contactContainer">
         <div id="contact">
-          <h2 className="script">contact us</h2>
+          <h2 className="script">Contact Us</h2>
           <ul>
-            <li>phone: 555-555-5555</li>
-            <li>email: email@email.com</li>
+            <li>phone: (707) 890-7813</li>
+            <li>email: wovenheartsherbfarm@gmail.com</li>
           </ul>
         </div>
         <div id="social">
