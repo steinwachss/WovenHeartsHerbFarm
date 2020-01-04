@@ -1,39 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9687d964456dfcb93b25103146e6fef5",
+    "revision": "f5347c8b1209f2685bb6c1886c8bed5a",
     "url": "/WovenHeartsHerbFarm/index.html"
   },
   {
-    "revision": "547a3856c5bf6fe63fec",
+    "revision": "f780db9c0f082f8b8fda",
     "url": "/WovenHeartsHerbFarm/static/css/main.3b22de3d.chunk.css"
   },
   {
-    "revision": "86669ca3175e3884314e",
-    "url": "/WovenHeartsHerbFarm/static/js/2.ecd22e25.chunk.js"
+    "revision": "ecc9b1e1caf3ea260649",
+    "url": "/WovenHeartsHerbFarm/static/js/2.ed610933.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/WovenHeartsHerbFarm/static/js/2.ecd22e25.chunk.js.LICENSE"
+    "url": "/WovenHeartsHerbFarm/static/js/2.ed610933.chunk.js.LICENSE"
   },
   {
-    "revision": "547a3856c5bf6fe63fec",
-    "url": "/WovenHeartsHerbFarm/static/js/main.d0b3f4ed.chunk.js"
+    "revision": "f780db9c0f082f8b8fda",
+    "url": "/WovenHeartsHerbFarm/static/js/main.0626a7ad.chunk.js"
   },
   {
     "revision": "83606c8d40b34e4a1d69",
     "url": "/WovenHeartsHerbFarm/static/js/runtime-main.aaa1dce2.js"
-  },
-  {
-    "revision": "bc2fec385aef119dfa936657fafca854",
-    "url": "/WovenHeartsHerbFarm/static/media/alyssa.bc2fec38.jpg"
-  },
-  {
-    "revision": "3523fbf3809007e6a6b60317243b3fc6",
-    "url": "/WovenHeartsHerbFarm/static/media/fillermain.3523fbf3.jpg"
-  },
-  {
-    "revision": "c39fc9562f541b1451aa23df31809c61",
-    "url": "/WovenHeartsHerbFarm/static/media/fillslide.c39fc956.jpg"
   },
   {
     "revision": "37ed933d10b80dd837f08daceac18e33",
