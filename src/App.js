@@ -11,17 +11,6 @@ function App() {
         <img id="mainLogo" src={logo} alt=""/>
         <h1 id="titleText">Woven Hearts Herb Farm</h1>
       </header>
-      <div id="banner">
-        <a href="https://www.kickstarter.com/projects/wovenheartsherbfarm/woven-hearts-herb-farm/description" target="_blank"><img src={kickStart} alt="" id="kickStart"/></a>
-      </div>
-      <div id="video">
-        <video controls>
-          <source src="https://v.kickstarter.com/1578884945_3a7ec99f605a676c0b1b189b6262d4e3f22c8ae6/projects/3778223/video-1005655-hls_playlist.m3u8" type="application/x-mpegURL"/>
-          <source src="https://v.kickstarter.com/1578884945_3a7ec99f605a676c0b1b189b6262d4e3f22c8ae6/projects/3778223/video-1005655-h264_high.mp4" type="video/mp4; codecs=&quot;avc1.64001E, mp4a.40.2&quot;"/>
-          <source src="https://v.kickstarter.com/1578884945_3a7ec99f605a676c0b1b189b6262d4e3f22c8ae6/projects/3778223/video-1005655-h264_base.mp4" type="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;"/>
-          You'll need an HTML5 capable browser to see this content.
-        </video>
-      </div>
       <main id="mainContent">
         <div id="about">
           <h2 className="script">Our Story</h2>
